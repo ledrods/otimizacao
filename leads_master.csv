@@ -1,0 +1,114 @@
+lead_id,nome,particao,status_funil,converteu,tipo_cliente,interesse_nivel,interesse_produto,responsavel,data_criacao,data_inicio_negociacao,dias_no_funil,pc_estimado,pc_fonte,vt_estimado_RS,vt_fonte,t_atendimento_h,t_fonte,w_peso_aresta,eficiencia_w_t,qualidade_dado
+11769241304,Mário Carneiro,historico,Não Fechou,0,,,,,2026-04-16,,43,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+11769645274,Erika Gomes,historico,Fechou Ganho,1,,,,,2026-04-16,,43,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+11770188994,Renata G Ferreira,historico,Não Fechou,0,,,,,2026-04-16,,43,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+18343162011,Luis Henrique Alves,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-04,,206,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18343175649,Diogo Helal,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-04,,206,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18353603614,Gilmar Dias,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-05,,205,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18362980853,Douglas Venorez,historico,Fechou Ganho,1,,Alto,,Maria Paula,2025-11-06,,204,0.65,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1950.0,975.0,Media
+18380705618,Breno Masi,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380718608,Marília Robles,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380724207,Elson Fernandes,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380727011,Caio Cunha,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380731317,Yuri Rugai Marinho,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380805705,Rodrigo Montaldi,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380823531,Fernanda Vilela,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380837855,Guilherme Checco,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380838252,Larissa Godoy,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18380844428,Martha Martorelli,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-11-17,,193,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+18382553422,Julio Silva,historico,Fechou Ganho,1,,Baixo,,Maria Paula,2025-11-18,,192,0.2,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,600.0,300.0,Media
+10693118882,Simon Dixon,historico,Fechou Ganho,1,,Médio,,Maria Paula,2025-12-03,,177,0.45,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1350.0,675.0,Media
+10701518027,Marcio Stangalin,historico,Fechou Ganho,1,,Alto,,Maria Paula,2025-12-04,,176,0.65,prior_interesse,3000,estimativa_segmento,2.0,estimativa_tipo,1950.0,975.0,Media
+18301137863,Johnathan Machado,historico,Não Fechou,0,,,,Talita Guedes,2025-10-29,,212,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+10713952223,Rafaelle,historico,Não Fechou,0,,,,,2025-12-05,,175,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+10713968862,Ernandes Green,historico,Não Fechou,0,,,,,2025-12-05,,175,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+10714011838,Cleide Monteiro,historico,Não Fechou,0,,,,,2025-12-05,,175,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+10714025780,Alex,historico,Não Fechou,0,,,,,2025-12-05,,175,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+18375828164,Tássia Correia,historico,Não Fechou,0,,,,Talita Guedes,2025-11-12,,198,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+18258136180,Gisele,historico,Fechou Ganho,1,PJ,,,Talita Guedes,2025-10-23,,218,0.1,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,1200.0,400.0,Baixa
+18026902209,Ana Rubia,historico,Fechou Ganho,1,PJ,,,Talita Guedes,2025-09-23,,248,0.1,prior_sem_dado,1000,campo_monday,3.0,estimativa_tipo,100.0,33.33,Media
+11343510035,Raquel Melo,historico,Fechou Ganho,1,PJ,,,Talita Guedes,2026-02-23,2026-02-12,95,0.1,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,1200.0,400.0,Baixa
+11423639909,Tatiana Minkara,historico,Fechou Ganho,1,PJ,,,Talita Guedes,2026-03-04,2026-03-04,86,0.1,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,1200.0,400.0,Baixa
+11480220542,Almir - Jangadeiros,historico,Fechou Ganho,1,PJ,,,Talita Guedes,2026-03-11,2026-03-02,79,0.1,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,1200.0,400.0,Baixa
+11469145040,Erik Stronkhorst,historico,Fechou Ganho,1,PJ,Alto,,Talita Guedes,2026-03-10,2026-03-04,80,0.65,prior_interesse,12000,estimativa_segmento,3.0,estimativa_tipo,7800.0,2600.0,Media
+11483496320,Paula Menezes,historico,Fechou Ganho,1,PJ,Alto,,Talita Guedes,2026-03-11,2026-03-05,79,0.65,prior_interesse,12000,estimativa_segmento,3.0,estimativa_tipo,7800.0,2600.0,Media
+11866244667,Múcio Banja,historico,Fechou Ganho,1,PJ,,,Karoline Melo,2026-04-28,,31,0.1,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,1200.0,400.0,Baixa
+11866259061,Andreia Silva,historico,Fechou Ganho,1,PJ,,,Karoline Melo,2026-04-28,,31,0.1,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,1200.0,400.0,Baixa
+11879946608,Liziane Alberti,historico,Fechou Ganho,1,PJ,,,Karoline Melo,2026-04-29,,30,0.1,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,1200.0,400.0,Baixa
+10848178931,Nathalia Lozano,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2025-12-24,2025-12-15,156,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11251045652,Jhessyka Fernandes,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-02-11,2026-12-10,107,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+18311490142,Cecilia Avalos,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2025-10-30,2025-10-28,211,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11236267566,Felipe Tavares,historico,Fechou Ganho,1,PF,Alto,,Talita Guedes,2026-02-10,2026-02-09,108,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+18372194849,Carmen Benedetti,historico,Fechou Ganho,1,PF,Médio,,Eduarda Malafaia,2025-11-10,2025-11-10,200,0.45,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1125.0,750.0,Media
+10753841469,Clarisse Salgado,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2025-12-11,2025-12-05,169,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+10847721660,Débora Kawano,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2025-12-24,2025-12-12,156,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+10848028146,Eduardo Akira,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2025-12-24,2025-12-20,156,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+10848121435,Eduardo De Araujo Lopes,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2025-12-24,2025-12-01,156,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11144053664,Seba Jiménez,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-01-30,2025-11-30,119,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11342982211,Ivana Barradas,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-02-23,2025-08-13,95,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11343316995,Vanessa Shany Aragão,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-02-23,2025-11-25,95,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11343458120,Ariovaldo Longo,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-02-23,2025-12-18,95,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11354551698,Tatiane Favarin,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-02-24,2025-12-09,94,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11468059405,Camila Malerbo,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-10,2025-12-21,80,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11468381926,Anthony Lucas,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-03-10,2025-12-21,80,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11480148620,Aldo Calleri,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-11,2026-01-14,79,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11480433165,Aline Garus,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-03-11,2026-01-02,79,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11606526420,Jaqueline Gil,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-26,2026-01-13,64,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11612821259,André Mombach,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-27,2026-01-16,63,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11625541683,Carla Borba,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-30,2025-12-29,60,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11625941279,Kamila Kunrat,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-30,2026-01-20,60,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11626172604,Cecilia Vazquez,historico,Fechou Ganho,1,PF,Médio,,Marcela Belo,2026-03-30,2026-01-24,60,0.45,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1125.0,750.0,Media
+11626413319,Johan Lydeking,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-30,2026-01-20,60,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11632236999,Cameron Butcher,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-30,2026-02-02,60,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11632356724,Beatriz Peruch,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-03-30,2026-01-06,60,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11632703267,Shayne Melo,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-03-30,2026-02-02,60,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11607533614,Carmen Beneditti,historico,Fechou Ganho,1,PF,Alto,,Marcela Belo,2026-03-26,2025-11-09,64,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11607688438,Luis Gabriel,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-26,2026-01-06,64,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11612156844,Xenia Boettcher,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-27,2026-01-05,63,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11612232596,Maria Adélia,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-27,2026-01-05,63,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11612374137,Juan Pablo,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-27,2026-01-05,63,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11615168727,Wagner Barbosa,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-27,2026-01-16,63,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11615270002,Bruno Rogério,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-27,2026-01-16,63,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11615263993,Ana Lourdes,historico,Fechou Ganho,1,PF,Moderado,,Marcela Belo,2026-03-27,2026-01-16,63,0.55,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1375.0,916.67,Media
+11605009190,Eduardo Akira (2),historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-26,2026-01-07,64,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11605202089,Paulo Leal,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-26,2025-11-27,64,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11643086990,Ana Carla,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-31,2026-02-02,59,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11643145394,Rosa Maria,historico,Fechou Ganho,1,PF,Muito Alto,,Marcela Belo,2026-03-31,2026-02-02,59,0.85,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,2125.0,1416.67,Media
+11643287870,Paulo Lorran,historico,Fechou Ganho,1,PF,Médio,,Marcela Belo,2026-03-31,2026-02-04,59,0.45,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1125.0,750.0,Media
+11877777149,Paula Oliveira lemos,ativo,Não Iniciado,,PF,,,,2026-04-29,,30,0.1,prior_sem_dado,2500,estimativa_segmento,1.5,estimativa_tipo,250.0,166.67,Baixa
+11879883031,lizi,ativo,Não Iniciado,,,,,,2026-04-29,,30,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+11880974254,Elizabeth Cotton,ativo,Não Iniciado,,,,,,2026-04-29,,30,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+12037517965,guillermo parnisari,ativo,Não Iniciado,,,,Projetos PDI e ESG,,2026-05-18,,11,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+12060578900,Lorena Zibes,ativo,Não Iniciado,,,,Turismo Regenerativo,,2026-05-20,,9,0.1,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,300.0,150.0,Baixa
+11748568737,Ana Lucia,ativo,Em Negociação,,,,,,2026-04-14,,45,0.0638,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,191.4,95.7,Baixa
+11748484502,Marina Barck,ativo,Não Iniciado,,,,,,2026-04-14,,45,0.0638,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,191.4,95.7,Baixa
+11748557415,Victoria,ativo,Não Iniciado,,,,,,2026-04-14,,45,0.0638,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,191.4,95.7,Baixa
+11748684737,Daniela Meres,ativo,Em Negociação,,,,,,2026-04-14,,45,0.0638,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,191.4,95.7,Baixa
+11761989986,Patrícia Pacheco,ativo,Em Negociação,,,,,,2026-04-15,,44,0.0644,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,193.2,96.6,Baixa
+11769173530,ROBERTA ABREU,ativo,Em Negociação,,,,,,2026-04-16,,43,0.0651,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,195.3,97.65,Baixa
+11769205031,Giovana Buzato,ativo,Em Negociação,,,,,,2026-04-16,,43,0.0651,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,195.3,97.65,Baixa
+11769262704,Ricardo,ativo,Em Negociação,,,,,,2026-04-16,,43,0.0651,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,195.3,97.65,Baixa
+11769494777,André,ativo,Em Negociação,,,,,,2026-04-16,,43,0.0651,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,195.3,97.65,Baixa
+11769514293,Ícaro França,ativo,Em Negociação,,,,,,2026-04-16,,43,0.0651,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,195.3,97.65,Baixa
+11769543441,Fátima Castanheira,ativo,Em Negociação,,,,,,2026-04-16,,43,0.0651,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,195.3,97.65,Baixa
+11778128573,Simone,ativo,Em Negociação,,PJ,Alto,,,2026-04-17,,42,0.65,prior_interesse,12000,estimativa_segmento,3.0,estimativa_tipo,7800.0,2600.0,Media
+18275270240,Erick,ativo,Em Negociação,,PJ,,EducaBio,,2025-10-27,,214,0.0118,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,141.6,47.2,Baixa
+11325761138,Helena Portilho,ativo,Não Iniciado,,PF,,,Marcela Belo,2026-02-20,2026-02-20,98,0.0375,prior_sem_dado,2500,estimativa_segmento,1.5,estimativa_tipo,93.75,62.5,Baixa
+11374940201,Marion Prado,ativo,Não Iniciado,,PF,,,Talita Guedes,2026-02-26,2026-02-25,92,0.0399,prior_sem_dado,2500,estimativa_segmento,1.5,estimativa_tipo,99.75,66.5,Baixa
+11374976507,Raquel de Souza,ativo,Não Iniciado,,PF,,,Talita Guedes,2026-02-26,2026-02-25,92,0.0399,prior_sem_dado,2500,estimativa_segmento,1.5,estimativa_tipo,99.75,66.5,Baixa
+11383252579,Matheus Mendes,ativo,Em Negociação,,PF,,,Maria Paula,2026-02-27,,91,0.0403,prior_sem_dado,2500,estimativa_segmento,1.5,estimativa_tipo,100.75,67.17,Baixa
+11383304313,Josep Rodriguez,ativo,Não Iniciado,,PF,,,Maria Paula,2026-02-27,,91,0.0403,prior_sem_dado,2500,estimativa_segmento,1.5,estimativa_tipo,100.75,67.17,Baixa
+11517300871,Projeto Túlio Gadelha,ativo,Não Iniciado,,,,,,2026-03-16,,74,0.0477,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,143.1,71.55,Baixa
+11517319976,EMBRATUR,ativo,Não Iniciado,,,,,,2026-03-16,,74,0.0477,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,143.1,71.55,Baixa
+11525520231,OMPI no Brasil,ativo,Não Iniciado,,,,,,2026-03-17,,73,0.0482,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,144.6,72.3,Baixa
+11525551733,SEBRAE STARTUPS,ativo,Não Iniciado,,,,,,2026-03-17,,73,0.0482,prior_sem_dado,3000,estimativa_segmento,2.0,estimativa_tipo,144.6,72.3,Baixa
+11627476146,Lucas Diniz,ativo,Não Iniciado,,PJ,,,Talita Guedes,2026-03-30,,60,0.0549,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,658.8,219.6,Baixa
+10001201741,Adriene Trindade,ativo,Em Negociação,,PJ,,,Talita Guedes,2025-09-08,,263,0.0072,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,86.4,28.8,Baixa
+11660240259,Ana Bárbara,ativo,Não Iniciado,,PJ,,,Talita Guedes,2026-04-02,,57,0.0566,prior_sem_dado,12000,estimativa_segmento,3.0,estimativa_tipo,679.2,226.4,Baixa
+11098982700,Carla Emanuele,ativo,Não Iniciado,,PF,Alto,,Marcela Belo,2026-01-26,2026-01-23,123,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11099052485,Miqueias,ativo,Não Iniciado,,PF,Alto,,Marcela Belo,2026-01-26,2026-01-24,123,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11099151786,Lorena Miller,ativo,Não Iniciado,,PF,Alto,,Marcela Belo,2026-01-26,2026-01-24,123,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11099150279,Rodolfo Cavalcanti,ativo,Não Iniciado,,PF,Alto,,Marcela Belo,2026-01-26,2026-01-24,123,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11099216353,Ricardo Morais,ativo,Não Iniciado,,PF,Alto,,Marcela Belo,2026-01-26,2026-01-24,123,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11099284548,Ju,ativo,Não Iniciado,,PF,Alto,,Marcela Belo,2026-01-26,2026-01-24,123,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
+11099311577,Monica Brasil,ativo,Não Iniciado,,PF,Alto,,Marcela Belo,2026-01-26,2026-01-24,123,0.65,prior_interesse,2500,estimativa_segmento,1.5,estimativa_tipo,1625.0,1083.33,Media
